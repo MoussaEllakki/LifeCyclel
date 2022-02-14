@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1048128370137",
+    "firebase_url": "https://myvalapp-d36c7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "myvalapp-d36c7",
+    "storage_bucket": "myvalapp-d36c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048128370137:android:c8ec72d4e029bebdde15c8",
+        "android_client_info": {
+          "package_name": "com.example.livedata4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048128370137-qnr21nabi4ms82h6s933iduffti6l4me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGJ1sIEMkeTopOit9oH-AuNU16TU00hXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048128370137-qnr21nabi4ms82h6s933iduffti6l4me.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1048128370137-4len22pi4k6fpbuisdmka1t52aibpufi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "moussaAdesson.MyValApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
